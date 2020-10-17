@@ -215,11 +215,11 @@ CapsuleCollider:
   m_GameObject: {fileID: 13435107}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 0
-  m_Radius: 0.021169826
-  m_Height: 0.017307576
-  m_Direction: 1
-  m_Center: {x: 9.313226e-10, y: 0.000000012572856, z: 0.0076954793}
+  m_Enabled: 1
+  m_Radius: 0.010059397
+  m_Height: 0.04921269
+  m_Direction: 0
+  m_Center: {x: 0, y: 0, z: 0.0076954984}
 --- !u!1001 &36356080
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -326,7 +326,7 @@ CapsuleCollider:
   m_GameObject: {fileID: 44844853}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 0
+  m_Enabled: 1
   m_Radius: 0.22556292
   m_Height: 1.840593
   m_Direction: 1
@@ -391,11 +391,11 @@ CapsuleCollider:
   m_GameObject: {fileID: 176361955}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 0
-  m_Radius: 0.018602163
-  m_Height: 0.034178957
+  m_Enabled: 1
+  m_Radius: 0.020499121
+  m_Height: 0.044801414
   m_Direction: 1
-  m_Center: {x: -0.000000009152453, y: 0.0064048427, z: 0.017925343}
+  m_Center: {x: 0.0024006944, y: 0.006404855, z: 0.016901577}
 --- !u!1 &215806430
 GameObject:
   m_ObjectHideFlags: 0
@@ -882,11 +882,11 @@ CapsuleCollider:
   m_GameObject: {fileID: 298162544}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 0
-  m_Radius: 0.5
-  m_Height: 1
+  m_Enabled: 1
+  m_Radius: 0.02
+  m_Height: 0.15
   m_Direction: 1
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Center: {x: 0, y: 0.05, z: 0.02}
 --- !u!1 &375061456
 GameObject:
   m_ObjectHideFlags: 0
@@ -1055,11 +1055,11 @@ CapsuleCollider:
   m_GameObject: {fileID: 465539969}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 0
-  m_Radius: 0.021169826
-  m_Height: 0.017307576
-  m_Direction: 1
-  m_Center: {x: 9.313226e-10, y: 0.000000012572856, z: 0.0076954793}
+  m_Enabled: 1
+  m_Radius: 0.009614091
+  m_Height: 0.04495757
+  m_Direction: 0
+  m_Center: {x: 0, y: 0, z: 0.010000008}
 --- !u!1 &557310369
 GameObject:
   m_ObjectHideFlags: 0
@@ -1890,11 +1890,11 @@ CapsuleCollider:
   m_GameObject: {fileID: 921112924}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 0
-  m_Radius: 13.499997
-  m_Height: 17
-  m_Direction: 1
-  m_Center: {x: -0.0000019073486, y: 8.5, z: 0.000011444092}
+  m_Enabled: 1
+  m_Radius: 5.52095
+  m_Height: 27.660585
+  m_Direction: 0
+  m_Center: {x: -0.21471386, y: 9, z: 0}
 --- !u!1 &969033191 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 127242, guid: 2145aca4677bd374bb41e3f80a5b53d6,
@@ -1910,11 +1910,11 @@ CapsuleCollider:
   m_GameObject: {fileID: 969033191}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 0
-  m_Radius: 0.03272212
-  m_Height: 0.02879189
-  m_Direction: 1
-  m_Center: {x: 0.000000001862643, y: 0.0011365908, z: 0.0119432835}
+  m_Enabled: 1
+  m_Radius: 0.014087369
+  m_Height: 0.07090363
+  m_Direction: 0
+  m_Center: {x: -0.00086782983, y: 0.0008066503, z: 0.009672561}
 --- !u!1001 &971442031
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2061,11 +2061,11 @@ CapsuleCollider:
   m_GameObject: {fileID: 1162632535}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 0
-  m_Radius: 0.5
+  m_Enabled: 1
+  m_Radius: 2
   m_Height: 1
   m_Direction: 1
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Center: {x: 0, y: 2, z: 0}
 --- !u!43 &1180316711
 Mesh:
   m_ObjectHideFlags: 0
@@ -2441,7 +2441,7 @@ CapsuleCollider:
   m_GameObject: {fileID: 1390798782}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 0
+  m_Enabled: 1
   m_Radius: 0.23603144
   m_Height: 0.543568
   m_Direction: 1
@@ -2780,11 +2780,11 @@ CapsuleCollider:
   m_GameObject: {fileID: 1524567685}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 0
-  m_Radius: 0.021876534
-  m_Height: 0.016617632
-  m_Direction: 1
-  m_Center: {x: 0.0000000074505815, y: -0.0004808091, z: 0.0065787924}
+  m_Enabled: 1
+  m_Radius: 0.010235206
+  m_Height: 0.050853755
+  m_Direction: 0
+  m_Center: {x: 0, y: -0, z: 0.0062512527}
 --- !u!1 &1527652827
 GameObject:
   m_ObjectHideFlags: 0
@@ -3614,10 +3614,32 @@ MonoBehaviour:
   StatusFilter: 0
   OnTargetFound:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 557310369}
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
   OnTargetLost:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 557310369}
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1932229367
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3766,11 +3788,11 @@ CapsuleCollider:
   m_GameObject: {fileID: 2066237426}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 0
-  m_Radius: 0.015258283
-  m_Height: 0.031079814
+  m_Enabled: 1
+  m_Radius: 0.009397409
+  m_Height: 0.041184865
   m_Direction: 1
-  m_Center: {x: 0.000000022351742, y: -0.000000007450581, z: 0.005426808}
+  m_Center: {x: 2.8017122e-10, y: -0.0007110538, z: 0.005426837}
 --- !u!1 &2085705147
 GameObject:
   m_ObjectHideFlags: 0
