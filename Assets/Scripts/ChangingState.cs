@@ -5,7 +5,7 @@ using UnityEngine;
 public class ChangingState : MonoBehaviour
 {
 	Animator anima;
-    public AudioSource sound;
+    //public AudioSource sound;
 
     // Start is called before the first frame update
     void Start()
@@ -19,7 +19,7 @@ public class ChangingState : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space)){
             anima.SetTrigger("celebrate");
             //sound = gameObject.GetComponent<AudioSource>();
-            sound.Play();
+            //sound.Play();
         }
         //if (Input.GetKeyDown(KeyCode.F)) anima.SetTrigger("fightsomething");
     }
